@@ -3,7 +3,7 @@
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-We intend to store the data in S3 and pull it into Postgres.
+We intend to store the data in an AWS Database and import it into Postgres.
 
 ## Machine Learning
 We'll be utilizing the SciKitLearn library and we're deciding between using several different supervised and unsupervised ML models and tools to answer each of our questions:
@@ -12,6 +12,7 @@ We'll be utilizing the SciKitLearn library and we're deciding between using seve
 - Random Forest
 - Gradient booster
 - SMOTE/SMOTEENN
+- PCA
 
 ## Dashboard
 We will integrate Tableau for a fully functioning and interactive dashboard.
