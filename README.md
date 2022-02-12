@@ -1,5 +1,5 @@
 # BREAKING_SAD
-Analysis of a dataset to predict depression
+Analysis of a dataset consisting of beer reviews.
 
 ## Group Communication
 - Slack Messages
