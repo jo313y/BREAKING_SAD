@@ -42,6 +42,6 @@ There are over 100 categories of beer that exist in the world - Stouts, Pilsners
 
 ## Exploratory Plots
 
-![bar_beerStyle.png](https://github.com/jo313y/BREAKING_SAD-analysis/blob/main/Resources/bar_beerStyle.png)
-![boxplot_reviews.png](https://github.com/jo313y/BREAKING_SAD-analysis/blob/main/Resources/boxplot_reviews.png)
-![boxplot_beerABV.png](https://github.com/jo313y/BREAKING_SAD-analysis/blob/main/Resources/boxplot_beerABV.png)
+![bar_beerStyle.png](https://github.com/jo313y/BREAKING_SAD/blob/main/Resources/bar_beerStyle.png)
+![boxplot_reviews.png](https://github.com/jo313y/BREAKING_SAD/blob/main/Resources/boxplot_reviews.png)
+![boxplot_beerABV.png](https://github.com/jo313y/BREAKING_SAD/blob/main/Resources/boxplot_beerABV.png)
