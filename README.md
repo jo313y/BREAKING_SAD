@@ -24,7 +24,12 @@ There are over 100 categories of beer that exist in the world - Stouts, Pilsners
 
 ## Machine Learning Questions
 1. Does an unsupervised machine learning algorithm trained on beer tasting data produce this abundance of beer types?
-2. Can a supervised machine learning model trained on beer tasting data predict beer type?  
+  PCA and k-means: Using beer_ABV, review_appearance, review_palette, review_taste, review_overall and review_aroma we used PCA and k-means to find the number of distinct beer styles based on these review columns. We used 3 principle components and found k=7. 
+  
+3. Can a supervised machine learning model trained on beer tasting data predict beer type?  
+
+  Decision Tree:
+Our feature columns are beer_ABV, review_appearance, review_palette, review_taste, review_overall and review_aroma. The target column is beer_style. The target and featrues were split into training and testing. 
 
 ## Exploratory Questions
 - Overthrowing beer snobbery: This dataset indicates that there are 104 different ways of brewing beer (The "beer_style" column has 104 different beer types). Can our machine learning algorithm ‘taste’ beer better than the experts?
