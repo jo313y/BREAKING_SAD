@@ -22,11 +22,11 @@ This dataset contains tasting reviews of 528870 beers (rows correspond to a sing
 ## Reason why we selected our topic
 There are over 100 categories of beer that exist in the world - Stouts, Pilsners, IPA's... the list goes on. Each beer type has a distinct brewing technique, curated over the course of thousands of years. But can we actually taste these differences in beer styles? Our machine learning model aims to answer two main questions tha can be seen below.
 
-## Machine learning questions
+## Machine Learning Questions
 1. Does an unsupervised machine learning algorithm trained on beer tasting data produce this abundance of beer types?
 2. Can a supervised machine learning model trained on beer tasting data predict beer type?  
 
-## Exploratory Questions:
+## Exploratory Questions
 - Overthrowing beer snobbery: This dataset indicates that there are 104 different ways of brewing beer (The "beer_style" column has 104 different beer types). Can our machine learning algorithm ‘taste’ beer better than the experts?
 - Can we predict beer style based on the features in this dataset?
 - Can our model predict which beers are most enjoyable based on the features in this dataset?
