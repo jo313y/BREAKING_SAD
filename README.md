@@ -32,6 +32,27 @@ There are over 100 categories of beer that exist in the world - Stouts, Pilsners
   Decision Tree:
 Our feature columns are beer_ABV, review_appearance, review_palette, review_taste, review_overall and review_aroma. The target column is beer_style. The target and featrues were split into training and testing. 
 
+The Beer_Models.ipynb script contains the following order of operations:
+
+1. Read in the data from PostgreSQL DataFrame
+2. Process Data for an Unsupervised Machine Learning Algorithm
+	- remove unnecessary columns and rows with NA values
+	- scale the data
+3. Reducing Data Dimensions Using PCA
+4. Clustering Beer Using K-Means
+6. Process data for supervised machine learning: a decision tree
+	- remove unnecessary columns and rows with NA values
+	- define the target vector (beer_style)
+	- split into training and testing
+	- scale x_train and x_test
+7. Fit the Decision Tree Mode
+8. Make Predictions Using the Tree Model
+9. Model Evaluation using the accuracy score
+9. Reducing number of beer styles
+	- manually by name
+	- using binning based on frequency
+	- using the unsupervised machine learning algorithm we built earlier
+
 ## Exploratory Questions
 - Overthrowing beer snobbery: This dataset indicates that there are 104 different ways of brewing beer (The "beer_style" column has 104 different beer types). Can our machine learning algorithm ‘taste’ beer better than the experts?
 - Can we predict beer style based on the features in this dataset?
