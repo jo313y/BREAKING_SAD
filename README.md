@@ -1,6 +1,8 @@
-# BREAKING_SAD
+# Overview
 
 Analysis of a beer [dataset](https://www.kaggle.com/gauravharamkar/beer-data-analytics) consisting of beer features and reviews.
+
+[Google Slides presentation outline here](https://docs.google.com/presentation/d/1bTF2MEfPKpuOnKWnakhP0NXrdKPm-rZL-ZHQbyESMo0/edit#slide=id.p)
 
 ## Data Description
 
