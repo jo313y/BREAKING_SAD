@@ -54,7 +54,7 @@ Input features were Using beer_ABV, review_appearance, review_palette, review_ta
 ![elbow_curve.png](https://github.com/jo313y/BREAKING_SAD/blob/main/Resources/elbow_curve.png)
 ![3D_scatter_clusters.png](https://github.com/jo313y/BREAKING_SAD/blob/main/Resources/3D_scatter_clusters.png)
 
-#### 3. Can a supervised machine learning model trained on beer tasting data predict beer type?  
+#### 2. Can a supervised machine learning model trained on beer tasting data predict beer type?  
 
 Decision Tree:
 
