@@ -105,12 +105,6 @@ We could tackle this class imbalance problem at both the unsupervised and superv
 	- using the unsupervised machine learning algorithm we built earlier
 11. Re-run our decision tree using these three grouping methods and compare accuracy scores
 
-
-## Group Communication
-- Slack Messages
-- Weekly Zoom Meetings as needed (Week 1: Monday-Thursday, Saturday. Week 2: Monday, Wednesday, Saturday. Week 3: Tuesday, Wednesday, Friday)
-- [Google Drive](https://drive.google.com/drive/folders/1WGlmS1NS2MW85CG1k2vxHaIE9FhGiSVK) Live Documents in Google Sheets
-
 ## Database
 ![ERD](https://github.com/jo313y/BREAKING_SAD/blob/main/ERD.png)
 
