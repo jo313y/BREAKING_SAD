@@ -106,6 +106,7 @@ We could tackle this class imbalance problem at both the unsupervised and superv
 11. Re-run our decision tree using these three grouping methods and compare accuracy scores
 
 ## Database
+We used SQLAlchemy per the [DB connection code file](https://github.com/JFoArlas/Pour_It_Up/blob/main/Resources/DB_connection.ipynb), to connect our Postgres database to our machine learning code. We also connected Tableau to the Postgres database to create our interactive dashboard.
 ![ERD](https://github.com/jo313y/BREAKING_SAD/blob/main/ERD.png)
 
 ## Exploratory Plots
