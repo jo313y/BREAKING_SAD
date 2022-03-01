@@ -3,7 +3,7 @@
 Analysis of a beer [dataset](https://www.kaggle.com/gauravharamkar/beer-data-analytics) consisting of beer features and reviews.
 
 - [Google Slides presentation](https://docs.google.com/presentation/d/1bTF2MEfPKpuOnKWnakhP0NXrdKPm-rZL-ZHQbyESMo0/edit#slide=id.p)
-- [Tableau Public](https://public.tableau.com/views/Final_Project_Beer/Scatter_reviewer_stats?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link) <<< TBD whose Tableau Public we use
+- [Interactive Dashboard](https://public.tableau.com/views/Final_Project_Beer/Scatter_reviewer_stats?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link)
 
 ## Data Description
 
